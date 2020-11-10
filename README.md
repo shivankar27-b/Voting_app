@@ -3,7 +3,7 @@ This application is made using Node.js and truffle framework
 
 ## Dependencies
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
-- NPM: https://nodejs.org
+- Node.js: https://nodejs.org
 - **Install Ganache** from: https://www.trufflesuite.com/ganache
 - **Install Metamask** (a Chrome Extension) from: https://metamask.io/
 ## Setting up dependencies
