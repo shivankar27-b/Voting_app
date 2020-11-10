@@ -1,7 +1,7 @@
 # Voting_app
 This application is made using Node.js and truffle framework
-Install Ganache from: https://www.trufflesuite.com/ganache
-Install Metamask (a Chrome Extension) from: https://metamask.io/
+**Install Ganache** from: https://www.trufflesuite.com/ganache
+**Install Metamask** (a Chrome Extension) from: https://metamask.io/
 Launch Ganache application on your system. Go to QuickStart Ethereum.
 Download the code.
 On command line type: npm install. With this all the dependencies of the file get installed.
