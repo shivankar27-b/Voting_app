@@ -1,5 +1,5 @@
 # Voting_app
-This application is made using Node.js and truffle framework
+This application is made using Node.js and truffle framework on Ethereum Blockchain
 
 ## Dependencies
 Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
