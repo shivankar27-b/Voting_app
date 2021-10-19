@@ -29,3 +29,5 @@ Install these prerequisites:
 - For next usage: **truffle migrate --reset**
 - Once the smart contracts are deployed on blockchain. Then we should view them on client side.
 - Run the blockchain server using: **npm run dev**
+- If issue persists: then run **npm install lite-server@2.3 --save-dev** 
+- and then **npm run dev**
